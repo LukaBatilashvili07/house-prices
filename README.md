@@ -52,11 +52,11 @@
 3. mode და median შევსება
 
 კატეგორიული ცვლადების რიცხვითში გადაყვანა:
-- Ordinal Encoding — ხარისხის ცვლადებისთვის: Ex=5, Gd=4, TA=3, Fa=2, Po=1, None=0
-- Category Codes — დანარჩენი კატეგორიული ცვლადებისთვის.
+- Ordinal Encoding - ხარისხის ცვლადებისთვის: Ex=5, Gd=4, TA=3, Fa=2, Po=1, None=0
+- Category Codes - დანარჩენი კატეგორიული ცვლადებისთვის.
 
 Cleaning მიდგომები:
-- Outlier-ების წაშლა: GrLivArea > 4000 და SalePrice < 300000 — 2
+- Outlier-ების წაშლა: GrLivArea > 4000 და SalePrice < 300000 - 2
 - Skewness Fix
 
 ## Feature Selection

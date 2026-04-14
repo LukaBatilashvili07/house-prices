@@ -93,3 +93,4 @@ MLflow ექსპერიმენტების ბმული:
 - val_r2 0.19
 - train_rmse 0.26
 - train_r2 0.56
+- Kaggle Score - 0.21571

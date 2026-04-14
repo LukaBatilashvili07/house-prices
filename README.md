@@ -17,7 +17,7 @@
 #კონკურსის საწყისი მონაცემები
 - data/
     - data_description.txt  
-    #submission მაგალითი        
+    #submission მაგალითი
     - sample_submission.csv
     #სატესტო მონაცემები
     - test.csv
@@ -38,7 +38,7 @@
 
 - TotalSF = Basement + 1st + 2nd floor
 - TotalBath = Full + Half + Basement baths
-- TotalPorchSF = ყველა porch ტიპი
+- TotalPorchSF
 - Age = YrSold - YearBuilt
 - RemodAge = YrSold - YearRemodAdd
 - HasPool

@@ -14,15 +14,23 @@
 8. საბოლოო მოდელის არჩევა და Kaggle-ს submission-ის შექმნა
 
 ## რეპოზიტორიის სტრუქტურა
-data/                           #კონკურსის საწყისი მონაცემები
-|-data_description.txt          
-|-sample_submission.csv         #submission მაგალითი 
-|-test.csv                      #სატესტო მონაცემები
-|-train.csv                     #სატრენინგო მონაცემები
-model_experiment.ipynb          #მოდელის ტესტირება და დატრენინგება
-model_inference.ipynb           #საუკეთესო მოდელის მიხედვით პროგნოზის გაკეთება
-README.md                       #პროექტის აღწერა
-submission.csv                  #Kaggle submission, საბოლოო პროგნოზი
+#კონკურსის საწყისი მონაცემები
+- data/
+    - data_description.txt  
+    #submission მაგალითი        
+    - sample_submission.csv
+    #სატესტო მონაცემები
+    - test.csv
+    #სატრენინგო მონაცემები
+    - train.csv
+#მოდელის ტესტირება და დატრენინგება
+- model_experiment.ipynb
+#საუკეთესო მოდელის მიხედვით პროგნოზის გაკეთება
+- model_inference.ipynb
+#პროექტის აღწერა
+- README.md
+#Kaggle submission, საბოლოო პროგნოზი
+- submission.csv
 
 ## Feature Engineering
 
